@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "6822fc1f477eb6970c6c4bd0"
+  },
+  "nama": "Muh Firmansyah",
+  "kelas": "B022",
+  "nim": "D0222503",
+  "alamat": "Pappang"
+},
+{
+  "_id": {
+    "$oid": "6822fd39477eb6970c6c4bd1"
+  },
+  "nama": "Muhammad Fadil",
+  "kelas": "B022",
+  "nim": "D0222547",
+  "alamat": "Lampa"
+}]
